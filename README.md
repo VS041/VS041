@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vimal
-- 👀 I’m interested in learning MERN Stack
-- 🌱 I’m currently learning MERN Stack
-- 💞️ I’m looking to collaborate on MERN Stack,Web3.0
+- 👀 I’m interested in learning Machine learning
+- 🌱 I’m currently learning ML
+- 💞️ I’m looking to collaborate on ML
 - 📫 How to reach me : vimal.sharma041@gmail.com
 
 <!---
